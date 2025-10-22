@@ -39,17 +39,6 @@ frontend/
 ├── package.json
 └── vite.config.js
 
-yaml
-Copy code
-
----
-
-## 🎨 Screenshots
-
-![Header](screenshots/header.png)  
-![ChatBox](screenshots/chatbox.png)  
-![QKD Visualizer](screenshots/visualizer.png)  
-
 ---
 
 ## 💻 Getting Started
@@ -72,6 +61,7 @@ npm run dev
 Open http://localhost:5173 in your browser.
 
 🔧 Notes
+
 Ensure Node.js >= 18 is installed.
 
 Dependencies include react, tailwindcss, framer-motion, and lucide-react.
@@ -79,6 +69,7 @@ Dependencies include react, tailwindcss, framer-motion, and lucide-react.
 ChatBox is ready for WebSocket integration to enable real-time messaging.
 
 📖 Future Enhancements
+
 Full real-time chat integration with backend.
 
 Optional real quantum random number generator for keys.
@@ -90,4 +81,5 @@ Mobile-first UI refinements.
 More interactive visualizations (multi-qubit, eavesdropper simulation).
 
 📝 License
+
 This project is open-source under the MIT License.
