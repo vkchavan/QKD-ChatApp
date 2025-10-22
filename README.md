@@ -40,26 +40,6 @@ frontend/
 └── vite.config.js
 
 ---
-
-## 💻 Getting Started
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/QKD-ChatApp.git
-cd QKD-ChatApp/frontend
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the development server:
-
-bash
-Copy code
-npm run dev
-Open http://localhost:5173 in your browser.
-
 🔧 Notes
 
 Ensure Node.js >= 18 is installed.
@@ -83,3 +63,24 @@ More interactive visualizations (multi-qubit, eavesdropper simulation).
 📝 License
 
 This project is open-source under the MIT License.
+
+## 💻 Getting Started
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/QKD-ChatApp.git
+cd QKD-ChatApp/frontend
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the development server:
+
+bash
+Copy code
+npm run dev
+Open http://localhost:5173 in your browser.
+
+
