@@ -40,7 +40,8 @@ frontend/
 └── vite.config.js
 
 ---
-🔧 Notes
+
+## 🔧 Notes
 
 Ensure Node.js >= 18 is installed.
 
@@ -48,7 +49,9 @@ Dependencies include react, tailwindcss, framer-motion, and lucide-react.
 
 ChatBox is ready for WebSocket integration to enable real-time messaging.
 
-📖 Future Enhancements
+---
+
+## 📖 Future Enhancements
 
 Full real-time chat integration with backend.
 
@@ -60,9 +63,13 @@ Mobile-first UI refinements.
 
 More interactive visualizations (multi-qubit, eavesdropper simulation).
 
-📝 License
+---
+
+## 📝 License
 
 This project is open-source under the MIT License.
+
+---
 
 ## 💻 Getting Started
 
